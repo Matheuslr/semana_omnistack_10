@@ -1,10 +1,10 @@
-Backend made using Node.js
+Backend created using Node.js
 
 ## Avaliable Script
 
 In the backend directory, you can run:
 
-### `nodemon dev`
+### `yarn dev`
 
 Runs the backend in development mode.<br />
-open [http://localhost:8001](http://localhost:8001) server
+open [http://localhost:8001](http://localhost:8001) server.
